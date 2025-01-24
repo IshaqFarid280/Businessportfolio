@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822296666178",
+    "project_id": "falconbytesolutions",
+    "storage_bucket": "falconbytesolutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822296666178:android:8504f4026641587c918ddb",
+        "android_client_info": {
+          "package_name": "com.fbportfolio.falconbyte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaP3U4h6Qkh1dO5-83bDvKel6cU9EWVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822296666178:android:0b35678e883bb146918ddb",
+        "android_client_info": {
+          "package_name": "com.fbportfolio.falconbytesolutinosportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaP3U4h6Qkh1dO5-83bDvKel6cU9EWVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
